@@ -1,3 +1,4 @@
+import sys
 import youtube_dl
 from youtube_dl.utils import DownloadError
 
@@ -23,7 +24,7 @@ def get_audio_url(video):
             return f['url']
 
 if __name__ == "__main__":
-    video_url = ""
+    video_url = sys.argv(1)
     video_info = get_video_info(video_url)
     url = get_audio_url(video_info)
 
