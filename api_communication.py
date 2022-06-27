@@ -1,5 +1,5 @@
 from textwrap import indent
-from time import time
+import time
 import requests
 import json
 from api_secrets import API_KEY_ASSEMBLYAI

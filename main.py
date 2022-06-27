@@ -14,7 +14,7 @@ def save_video_sentiments(url):
         return title + "_sentiments.json"
 
 def get_positivity_ratio(filename):
-    with open("data/" + filename, "r") as f:
+    with open(filename, "r") as f:
         data = json.load(f)
     
     positives = []
@@ -41,7 +41,7 @@ def get_positivity_ratio(filename):
     r = n_pos / (n_pos + n_neg)
     print(f"Positive ratio: {r:.3f}")
 
+video_url = sys.argv[1]
 if __name__ == "__main__":
-    video_url = sys.argv(1)
     filename = save_video_sentiments(video_url)
     get_positivity_ratio(filename)

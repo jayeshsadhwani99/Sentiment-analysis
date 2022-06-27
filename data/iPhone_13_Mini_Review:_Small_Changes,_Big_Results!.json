@@ -1,0 +1,514 @@
+[
+    {
+        "text": "This is the iPhone 13 Mini, apple's latest iteration of the tiny iPhone that won me over last year.",
+        "start": 370,
+        "end": 5694,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9593722224235535,
+        "speaker": null
+    },
+    {
+        "text": "Now at first glance there doesn't look to be a whole lot different this year, but there are actually a few key changes under the hood that might just make you want to upgrade.",
+        "start": 5732,
+        "end": 13450,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6378929018974304,
+        "speaker": null
+    },
+    {
+        "text": "Oh, before I forget, almost, almost every single shot in this video with the exception of the Aroll where I'm talking to you right now, and the camera sample section, was shot in ProRes on the iPhone 13 Promax.",
+        "start": 13510,
+        "end": 23818,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6601452231407166,
+        "speaker": null
+    },
+    {
+        "text": "Immediately after taking it out of the box, the 13 Mini felt very familiar.",
+        "start": 23914,
+        "end": 28018,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8481441736221313,
+        "speaker": null
+    },
+    {
+        "text": "I used the Twelve Mini for a long time and for the most part this phone feels exactly the same.",
+        "start": 28114,
+        "end": 33006,
+        "sentiment": "POSITIVE",
+        "confidence": 0.62828129529953,
+        "speaker": null
+    },
+    {
+        "text": "Which admittedly doesn't sound like all that great of a thing to say, but it really is.",
+        "start": 33068,
+        "end": 37734,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5272146463394165,
+        "speaker": null
+    },
+    {
+        "text": "It's a very comfortable phone to hold.",
+        "start": 37772,
+        "end": 39702,
+        "sentiment": "POSITIVE",
+        "confidence": 0.945127010345459,
+        "speaker": null
+    },
+    {
+        "text": "One of the most comfortable phones I've ever used.",
+        "start": 39776,
+        "end": 42186,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9826242327690125,
+        "speaker": null
+    },
+    {
+        "text": "In fact, it's gotten a tiny bit thicker and heavier to accommodate a bigger battery.",
+        "start": 42248,
+        "end": 46222,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6443029642105103,
+        "speaker": null
+    },
+    {
+        "text": "But the extra weight and thickness is barely perceivable.",
+        "start": 46246,
+        "end": 49150,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5709584951400757,
+        "speaker": null
+    },
+    {
+        "text": "It only weighs 140 grams and it's so small that I often do that thing where I panic for a split second thinking that I lost my phone because I don't feel it in my pocket anymore.",
+        "start": 49210,
+        "end": 58330,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7300241589546204,
+        "speaker": null
+    },
+    {
+        "text": "But when I reached down to check it's still there.",
+        "start": 58390,
+        "end": 60414,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8055303692817688,
+        "speaker": null
+    },
+    {
+        "text": "That bigger battery is one of the more important upgrades in the new Mini.",
+        "start": 60452,
+        "end": 64210,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9470182657241821,
+        "speaker": null
+    },
+    {
+        "text": "It went from a 22 27 to a 24 six milliamp hour battery in this year's version.",
+        "start": 64270,
+        "end": 69274,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8417030572891235,
+        "speaker": null
+    },
+    {
+        "text": "Now that might not seem like much, it's only a size increase of about 8%, but the battery life on this phone has been noticeably improved.",
+        "start": 69322,
+        "end": 77122,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8665288686752319,
+        "speaker": null
+    },
+    {
+        "text": "On last year's Mini, I was only getting around four and a half hours of screen on time per day on average.",
+        "start": 77206,
+        "end": 82222,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6724953055381775,
+        "speaker": null
+    },
+    {
+        "text": "On the new one though, I'm getting around five to five and a half hours of screen on time, which is much better.",
+        "start": 82306,
+        "end": 88182,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8749557733535767,
+        "speaker": null
+    },
+    {
+        "text": "I can now get through the full day without any worry whatsoever that the battery will die before the day is over.",
+        "start": 88256,
+        "end": 93510,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6389987468719482,
+        "speaker": null
+    },
+    {
+        "text": "And that's something I know a lot of twelve Mini owners were complaining about.",
+        "start": 93620,
+        "end": 97026,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6704573631286621,
+        "speaker": null
+    },
+    {
+        "text": "I can't really confirm this since I don't have an iPhone Twelve lying around, but the iPhone 13 Mini this year is said to have a better battery life than the iPhone Twelve non Mini.",
+        "start": 97088,
+        "end": 106234,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7818032503128052,
+        "speaker": null
+    },
+    {
+        "text": "I think the improvement in battery life is the biggest upgrade when it comes to everyday usability.",
+        "start": 106282,
+        "end": 110902,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9526694416999817,
+        "speaker": null
+    },
+    {
+        "text": "The 13 Mini does have some other great upgrades that I'll talk about in a second.",
+        "start": 111046,
+        "end": 114510,
+        "sentiment": "POSITIVE",
+        "confidence": 0.966077446937561,
+        "speaker": null
+    },
+    {
+        "text": "But if I'm being completely honest here, the Twelve Mini was already a great phone.",
+        "start": 114560,
+        "end": 119574,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8875809907913208,
+        "speaker": null
+    },
+    {
+        "text": "It just needed some extra juice.",
+        "start": 119612,
+        "end": 121654,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7721163034439087,
+        "speaker": null
+    },
+    {
+        "text": "Some of that battery life improvement likely has to do with the new A 15 Bionic CPU that Apple tossed in this year.",
+        "start": 121762,
+        "end": 127410,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7630844116210938,
+        "speaker": null
+    },
+    {
+        "text": "Just like last year's A 14 and the year before is A 13.",
+        "start": 127460,
+        "end": 130726,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6909090280532837,
+        "speaker": null
+    },
+    {
+        "text": "It's a very fast CPU, you don't need me to tell you that.",
+        "start": 130858,
+        "end": 134034,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5188259482383728,
+        "speaker": null
+    },
+    {
+        "text": "Will you be able to tell the difference in speed between this year's mini and last year's mini?",
+        "start": 134132,
+        "end": 138322,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8767988085746765,
+        "speaker": null
+    },
+    {
+        "text": "No, probably not.",
+        "start": 138466,
+        "end": 139626,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5015360713005066,
+        "speaker": null
+    },
+    {
+        "text": "Especially since Apple has opted not to put a 120 horse display in the mini like they did with the Prophets this year.",
+        "start": 139688,
+        "end": 146034,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6976643204689026,
+        "speaker": null
+    },
+    {
+        "text": "Bit of a bummer, honestly.",
+        "start": 146072,
+        "end": 147070,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8624774217605591,
+        "speaker": null
+    },
+    {
+        "text": "Now, I didn't expect them to give this phone a high refresh rate display.",
+        "start": 147130,
+        "end": 150118,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7120257019996643,
+        "speaker": null
+    },
+    {
+        "text": "That probably might have been a little bit too much for a tiny phone like this, but there was a small sliver of hope in the back of my mind.",
+        "start": 150154,
+        "end": 156426,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5734720230102539,
+        "speaker": null
+    },
+    {
+        "text": "The display this year is nearly identical to last year.",
+        "start": 156488,
+        "end": 158934,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5545502305030823,
+        "speaker": null
+    },
+    {
+        "text": "It's more or less the same 5.4 inch OLED with great colors, great contrast and perfect blacks.",
+        "start": 158972,
+        "end": 164398,
+        "sentiment": "POSITIVE",
+        "confidence": 0.860498309135437,
+        "speaker": null
+    },
+    {
+        "text": "Because of the OLED nature, it's a good display.",
+        "start": 164434,
+        "end": 167074,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9603541493415833,
+        "speaker": null
+    },
+    {
+        "text": "Not quite as good as the Pro displays, but no one expects it to be.",
+        "start": 167182,
+        "end": 170490,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6268826723098755,
+        "speaker": null
+    },
+    {
+        "text": "They have reduced the size of the notch in the 13 mini just like they did with the rest of the 13 lineup, but it hasn't resulted in much of an improvement in screen real estate.",
+        "start": 170540,
+        "end": 178606,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5170705914497375,
+        "speaker": null
+    },
+    {
+        "text": "They haven't even given us more information in the corners like, oh, I don't know, a battery percentage indicator instead of this tiny little vague battery icon.",
+        "start": 178738,
+        "end": 188122,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5974071621894836,
+        "speaker": null
+    },
+    {
+        "text": "That would have been nice.",
+        "start": 188266,
+        "end": 189162,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8690466284751892,
+        "speaker": null
+    },
+    {
+        "text": "Then there's the cameras.",
+        "start": 189236,
+        "end": 190462,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6165028214454651,
+        "speaker": null
+    },
+    {
+        "text": "No, Apple did not just move that bottom lens over to the right and call it a day.",
+        "start": 190546,
+        "end": 194550,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5995785593986511,
+        "speaker": null
+    },
+    {
+        "text": "Despite what the memes might suggest, this camera bump is actually quite a bit bigger than it was last year.",
+        "start": 194600,
+        "end": 199350,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7089606523513794,
+        "speaker": null
+    },
+    {
+        "text": "And that's because Apple has stuck their sensor shift image stabilization tech from the Twelve Pro max into this mini this year.",
+        "start": 199400,
+        "end": 206790,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7175805568695068,
+        "speaker": null
+    },
+    {
+        "text": "Basically, the entire sensor will shift around when the phone is in motion so that you're able to record more stable video or capture better low light photos by reducing the motion blur.",
+        "start": 206840,
+        "end": 215794,
+        "sentiment": "POSITIVE",
+        "confidence": 0.597070038318634,
+        "speaker": null
+    },
+    {
+        "text": "Apple has also said that the standard One X camera in the 13 mini is brand new and should perform 47% better in low light.",
+        "start": 215842,
+        "end": 223518,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9184362292289734,
+        "speaker": null
+    },
+    {
+        "text": "To my eye, the photos from both the wide and ultra wide of the 13 mini look very similar to the Twelve mini, and that's not a bad thing at all.",
+        "start": 223604,
+        "end": 230598,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9036883115768433,
+        "speaker": null
+    },
+    {
+        "text": "The Twelve mini already took some great photos, but I would have liked to see some increase in sharpness or resolution.",
+        "start": 230624,
+        "end": 236806,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8458618521690369,
+        "speaker": null
+    },
+    {
+        "text": "It does perform a little better in low light, although I think the random lens flares that the iPhones produce at night are a bigger issue here than low light sensitivity at this point.",
+        "start": 236938,
+        "end": 245910,
+        "sentiment": "POSITIVE",
+        "confidence": 0.4628312885761261,
+        "speaker": null
+    },
+    {
+        "text": "Apple did introduce two new softwarerelated camera functions this year cinematic Mode and Photographic Styles Mode.",
+        "start": 245960,
+        "end": 251302,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7122877836227417,
+        "speaker": null
+    },
+    {
+        "text": "I already covered the Cinematic mode in a full video, which you can check out in the link up here if you're interested.",
+        "start": 251326,
+        "end": 255990,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.649760901927948,
+        "speaker": null
+    },
+    {
+        "text": "But it's basically the same thing as Androids portrait video thing that they do.",
+        "start": 256100,
+        "end": 260910,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8013656735420227,
+        "speaker": null
+    },
+    {
+        "text": "The Photographic Styles feature is kind of like a filter that Apple will layer over all of your photos by default.",
+        "start": 260960,
+        "end": 266350,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.634113609790802,
+        "speaker": null
+    },
+    {
+        "text": "The funny thing is, rich contrast makes the iPhone's photos look like they were shot with a pixel and vibrant makes it look like they were shot with a Samsung.",
+        "start": 266410,
+        "end": 274138,
+        "sentiment": "POSITIVE",
+        "confidence": 0.4730755090713501,
+        "speaker": null
+    },
+    {
+        "text": "So if you like the way those Androids process photos more, you can now get those kinds of photos on an iPhone.",
+        "start": 274234,
+        "end": 279754,
+        "sentiment": "POSITIVE",
+        "confidence": 0.669003963470459,
+        "speaker": null
+    },
+    {
+        "text": "Other than that, the 13 mini is identical to the twelve mini.",
+        "start": 279802,
+        "end": 283030,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7598217129707336,
+        "speaker": null
+    },
+    {
+        "text": "There are some different colors and whatnot, but like I said, it's a very familiar phone.",
+        "start": 283090,
+        "end": 287430,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.49456629157066345,
+        "speaker": null
+    },
+    {
+        "text": "If you currently own a twelve minute and you're fine with the battery life, you probably don't need this phone.",
+        "start": 287540,
+        "end": 292770,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4850165843963623,
+        "speaker": null
+    },
+    {
+        "text": "If you have something older though, I encourage you to at least go out to your local Apple store and just hold a 13 mini.",
+        "start": 292820,
+        "end": 299002,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7361239790916443,
+        "speaker": null
+    },
+    {
+        "text": "It's such a fun little phone and it deserves to be in the hands of so many more people than it is right now.",
+        "start": 299026,
+        "end": 303930,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9792274832725525,
+        "speaker": null
+    },
+    {
+        "text": "I made tons of videos about the twelve mini last year and the sentiment was always the same it's the best small phone that money could buy.",
+        "start": 303980,
+        "end": 310950,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9637488722801208,
+        "speaker": null
+    },
+    {
+        "text": "Even with the mediocre battery life, the 13 mini is by no means a complete redesign or anything, but you know what they say if it ain't broke, just toss in a bigger battery or something like that.",
+        "start": 311000,
+        "end": 322530,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4844137132167816,
+        "speaker": null
+    },
+    {
+        "text": "Anyway, thanks for watching and as always, have a great day.",
+        "start": 322640,
+        "end": 325782,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9883596897125244,
+        "speaker": null
+    },
+    {
+        "text": "Bye.",
+        "start": 325916,
+        "end": 326170,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5137447118759155,
+        "speaker": null
+    }
+]
